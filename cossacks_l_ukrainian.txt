@@ -982,7 +982,6 @@
  EST_VAL_FULL_ARISTOCRATIC:0 "Full Aristocracy: $VAL|Y$"
  EST_VAL_FULL_PLUTOCRATIC:0 "Full Plutocracy: $VAL|Y$"
  EST_VAL_FULL_HUMANIST:0 "Full Humanist: $VAL|Y$"
- EST_VAL_CORFITZ_ULFELDT_AND_THE_KING:0 "Council Intrigue: $VAL|Y$"
  EST_VAL_CORFITZ_ULFELDT_AND_THE_KING:0 "Інтриги ради: $VAL|Y$"
  cossack_raids_opinion:0 "Нальоти козаків"
  cossack_estate_events.1.t:0 "Colonization of the Steppes"
