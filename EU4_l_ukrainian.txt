@@ -3235,6 +3235,7 @@
  MATCHMAKING_FRIEND_STATUS_ONLINE:0 "§MВ мережі§!"
  MATCHMAKING_FRIEND_STATUS_PLAYING_THIS:0 "§lГрає в Europa Universalis IV§!"
  MATCHMAKING_FRIEND_STATUS_PLAYING_OTHER:0 "§MГрає в іншу гру§!"
+ MATCHMAKING_PLAYER_NAME:0 "Ім'я гравця\nМає бути унікальним"
  ALLOW_HOTJOIN:0 "Гравці можуть підключатися під час гри"
  ALLOW_COOP:0 "Дозволити гравцям грати за одну державу"
  ALLOW_COOP_MP:0 "Дозволити гравцям грати за одну державу"
